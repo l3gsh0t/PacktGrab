@@ -1,6 +1,4 @@
-# Project Title
-
-PacktGrab
+# PacktGrab
 
 ## Getting Started
 
